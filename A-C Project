@@ -1,0 +1,32 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+    <h2>Navigation bar</h2>
+    <div class="container navigation pt-3">
+    <div class="row">
+        <div class="col-6 d-flex justify-content-start align-items-center">
+            <h5 class="d-inline pl-2 text-white">Download any one of these</h5>
+        </div>
+        <div class="col-6 pt-2">
+            <div class="row text-center p-0 d-flex justify-content-start align-items-center">
+                <div class="col-3">
+                 <a href="#about" class="text-white navigation-link">Apps</a>
+                </div>
+                <div class="col-3">
+                    <a href="#project" class="text-white navigation-link">TV Shows,Entartainment</a>
+                </div>
+                <div class="col-3">
+                    <a href="#social media" class="text-white navigation-link">Movies</a>
+            </div>
+            <div class="col-3">
+                <a href="#resume" class="text-white navigation-link">Games</a>
+        </div>
+        </div>
+        </div>
+</body>
+</html>
